@@ -3,7 +3,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://example.com', // Placeholder, will be updated by deployment process or user
+  site: 'https://autoinit.com', // Placeholder, will be updated by deployment process or user
   base: '/', 
   integrations: [
     tailwind()
